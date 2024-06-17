@@ -1,5 +1,5 @@
 # MTSF-DG
-Here is the code and appendix for the paper 'Multiple Time Series Forecasting with Dynamic Graph Modeling'.
+Here is the code for the paper 'Multiple Time Series Forecasting with Dynamic Graph Modeling'.
 
 The data process and data loader are under '/lib/', and the MTSF-DG method is under '/model/'.
 
