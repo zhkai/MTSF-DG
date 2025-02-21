@@ -44,5 +44,5 @@ Example
 ======================
 Running the following script provides an example of how the TVGL solver can be used:
 ```
-exampleTVGL.py
+graphLearning.py
 ```
