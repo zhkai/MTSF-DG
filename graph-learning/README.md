@@ -1,5 +1,5 @@
 # TVGL
-TVGL is a python solver for inferring dynamic networks from raw time series data. For implementation details, refer to the paper, available at: http://stanford.edu/~hallac/TVGL.pdf.
+TVGL is a python solver for inferring dynamic networks from raw time series data.
 
 -----
 
