@@ -3,13 +3,6 @@ TVGL is a python solver for inferring dynamic networks from raw time series data
 
 -----
 
-Download & Setup
-======================
-Download the source code by running the following code in the terminal:
-```
-git clone https://github.com/davidhallac/TVGL.git
-```
-
 
 Usage
 ======================
